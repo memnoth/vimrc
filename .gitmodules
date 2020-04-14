@@ -1,0 +1,12 @@
+[submodule "my_plugins/taglist.vim"]
+	path = my_plugins/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "my_plugins/vim-monokai"]
+	path = my_plugins/vim-monokai
+	url = https://github.com/crusoexia/vim-monokai.git
+[submodule "my_plugins/vcscommand.vim"]
+	path = my_plugins/vcscommand.vim
+	url = https://github.com/vim-scripts/vcscommand.vim.git
+[submodule "my_plugins/vim-signify"]
+	path = my_plugins/vim-signify
+	url = https://github.com/mhinz/vim-signify.git
